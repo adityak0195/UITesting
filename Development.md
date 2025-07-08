@@ -2,7 +2,7 @@
 
 1. Automation scripts are saved under CAPS, CVS or RVS based on the functionlaity under testing.
 
-    ![image](https://github.com/KB-smartProduction/UITesting/assets/133857066/778d9ad6-09f4-45c8-abd2-79b7ec0c512c)
+  ![image](https://github.com/user-attachments/assets/10f2e1e5-0be2-46b9-9ed3-91b4610edd04)
 
 2. Before starting to write a test script, a JIRA task should be created under [TWX-2813](https://knorr-bremse.atlassian.net/browse/TWX-2813).
    Make sure the the new task created has **_ConsistsOf_** relationships to TWX-2813.
